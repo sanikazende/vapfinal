@@ -5,9 +5,5 @@ sanika
 enchanting 
 midnigt rain
 getaway car
-<<<<<<< HEAD
->>>>>>> 6999775dccacdd4ecb69aee42547df7630366dbf
-=======
 lover 
 
->>>>>>> a2f92a518258b6ae1473d70be1a4ca0d8ea97520
